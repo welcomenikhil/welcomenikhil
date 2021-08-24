@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at Ryerson University.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Software Design & Engineering, and Artificial Intelligence.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🚀 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
