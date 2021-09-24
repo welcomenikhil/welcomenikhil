@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing solutions to make the world a better place with machine learning and software engineering
+- 💡 &nbsp; Exploring new technologies and developing solutions to make the world a better place with machine learning and software engineering
 - 🎓 &nbsp; Studying Computer Science at Ryerson University.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Software Design & Engineering, and Artificial Intelligence.
 
