@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp; Exploring new technologies and developing solutions to make the world a better place with machine learning and software engineering
-
+- 💡 &nbsp; Exploring new technologies and developing solutions to make the world a better place with machine learning and data analytics.
 <h3> 🚀 &nbsp;Tech Stack</h3>
 
 💻 &nbsp;
